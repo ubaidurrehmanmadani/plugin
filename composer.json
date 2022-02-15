@@ -1,0 +1,7 @@
+{
+  "type" : "composer-plugin",
+  "name" : "sitepoint/plugin",
+  "require" : {
+      "composer-plugin-api" : "^1.0"
+  }
+}
