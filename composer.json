@@ -1,4 +1,15 @@
 {
+    "name": "smsami-07/plugin",
+    "description": "This is a Test Plugin",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ubaid Ur Rehman",
+            "email": "ubaidurrehmanmadani@gmail.com"
+        }
+    ],
+    "require": {},
     "autoload": {
         "psr-4": {
             "MyApp\\" : "src/"

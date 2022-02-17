@@ -6,7 +6,7 @@ Steps to Make Custom Composer Plugin
 4. create another folder in main directory and name it "src".
 5. create custom classes in "src" folder.
 6. use namespace as "App" i.e., e.g., namesapce App\Controller
-7. Register namespace in composer.json as 
+7. Run composer init command and enter the minimum required fields, after that register namespace in composer.json as e.g.,
     {
         "autoload" : {
             "psr-4" : {
